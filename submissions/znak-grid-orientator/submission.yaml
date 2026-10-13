@@ -28,11 +28,11 @@ versions:
         score: 78.3333333333
         set: "public"
   - version: "1.1"
-    date: 2026-10-11
+    date: 2026-10-12
     changes: "Fresh ARC-AGI-3 Competition scorecard with named MAI-Thinking-1 adapter and fail-closed evidence trail."
     models:
       - name: "MAI-Thinking-1"
     scores:
       - benchmark: "arc-agi-3"
-        scorecard_url: "https://arcprize.org/scorecards/ec12e9dc-eac0-4ab6-8800-63e4d9231564"
+        scorecard_url: "https://arcprize.org/scorecards/2e350e76-52d8-4e10-96de-39aff7405567"
         set: "public"
