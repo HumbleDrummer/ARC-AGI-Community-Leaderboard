@@ -8,9 +8,6 @@ authors:
 description: >
   General-purpose ARC grid reasoning harness combining deterministic structural
   orientation, compositional mechanism memory, and a language-model solver.
-  The ARC-AGI-3 entry is a bounded public Competition scorecard for a
-  ZNAK semantic bridge with MAI-Thinking-1; it is not claimed as autonomous
-  full-pool solving.
 
 code_url: "https://github.com/HumbleDrummer/znak-orient/tree/main/arc/znak-grid-orientator"
 
@@ -27,12 +24,4 @@ versions:
       - benchmark: "arc-agi-2"
         score: 78.3333333333
         set: "public"
-  - version: "1.1"
-    date: 2026-10-12
-    changes: "Fresh ARC-AGI-3 Competition scorecard with named MAI-Thinking-1 adapter and fail-closed evidence trail."
-    models:
-      - name: "MAI-Thinking-1"
-    scores:
-      - benchmark: "arc-agi-3"
-        scorecard_url: "https://arcprize.org/scorecards/2e350e76-52d8-4e10-96de-39aff7405567"
-        set: "public"
+
